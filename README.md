@@ -1,4 +1,7 @@
 # bitcoinTrading
+
+ALGORITHM TO TRADE BITCOINS
+
 So far, bitcoin traders are using a limited amount of tools for trading. There is still a lack of development within this area. That represents a huge opportunity for borrowing some proved knowledge from a similar market: stock trading. For that reason, I am proposing a algorithm well used in the latter market that suggests to buy or sell a bitcoin at a particular moment.
 
 This algorithm is based on the following technique: Moving Average Price (60 and 20). 60 and 20 make reference to the amount of days used to calculate the average.
